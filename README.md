@@ -1,4 +1,4 @@
-[![Gitter](https://badges.gitter.im/Pezhvak/Laravel-SMS.svg)](https://gitter.im/Pezhvak/Laravel-Localization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/ImmortalVision/Laravel-SMS.svg)](https://gitter.im/ImmortalVision/Laravel-Localization?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # laravel-localization
 Detect locale and localize your application based on that
